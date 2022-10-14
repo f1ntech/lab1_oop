@@ -1,0 +1,15 @@
+/Users/artembabenko/Desktop/cShark/Lab1_oop/bin/Debug/net6.0/Lab1_oop
+/Users/artembabenko/Desktop/cShark/Lab1_oop/bin/Debug/net6.0/Lab1_oop.deps.json
+/Users/artembabenko/Desktop/cShark/Lab1_oop/bin/Debug/net6.0/Lab1_oop.runtimeconfig.json
+/Users/artembabenko/Desktop/cShark/Lab1_oop/bin/Debug/net6.0/Lab1_oop.dll
+/Users/artembabenko/Desktop/cShark/Lab1_oop/bin/Debug/net6.0/Lab1_oop.pdb
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.csproj.AssemblyReference.cache
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.AssemblyInfoInputs.cache
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.AssemblyInfo.cs
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.csproj.CoreCompileInputs.cache
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.dll
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/refint/Lab1_oop.dll
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.pdb
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/Lab1_oop.genruntimeconfig.cache
+/Users/artembabenko/Desktop/cShark/Lab1_oop/obj/Debug/net6.0/ref/Lab1_oop.dll
